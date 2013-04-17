@@ -19,4 +19,6 @@ Usage with parameters:
     
 ## Parameters
 
-    
+**timeout** - miliseconds to wait before swich from underscore to background (and vice versa) - integer value (1000 means 1 second)
+
+**color** - color for underscore and background of cursor (as a name or value in quotes)
